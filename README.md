@@ -106,7 +106,7 @@ Available tasks: (use --help or -h for more info)
 ![![](http://bower.io/)](https://pbs.twimg.com/profile_images/3536632979/66db62603f426a8fc6664081811be6d4_normal.png)
 
 ## [Gulp](http://gulpjs.com/)
-![![](http://gulpjs.com/)](http://seanjones.io/images/gulp.svg)
+![![](http://gulpjs.com/)](http://www.codeforest.net/wp-content/uploads/2014/07/gulp-logo-138x138.jpe)
 
 ## [Sass](http://sass-lang.com/)
 ![![](http://sass-lang.com/)](http://www.beauboehner.com/sites/all/themes/beaustrap/images/sass-logo.png)
